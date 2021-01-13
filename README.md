@@ -1,4 +1,4 @@
-### Hi there, I'm Bia! 👋
+### Hi there, I'm Bia! 👋😉
 
 - 💻 I’m a fullstack developer
 - 📚 Currently learning React ❄️ and other JavaScript related things
