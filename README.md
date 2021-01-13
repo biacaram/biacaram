@@ -1,4 +1,4 @@
-## Hi there, I'm Bia! 👋
+## Hello, I'm Bia! 👋
 
 - 💻 I’m a fullstack developer
 - 📚 Currently learning React and other JavaScript related things
@@ -37,7 +37,10 @@
 [<img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384031.svg?token=exp=1610560124~hmac=6320fb0ea5773e99ef6aa56b7e24526e">](https://www.instagram.com/biacaram/)
 
 <br />
+<br />
 <hr>
+
+
 
 <!--
 **biacaram/biacaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
