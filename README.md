@@ -1,17 +1,17 @@
-### Hi there, I'm Bia! 👋😉
+## Hi there, I'm Bia! 👋😉
 
 - 💻 I’m a fullstack developer
-- 📚 Currently learning React ❄️ and other JavaScript related things
-- I’m also a biologist 🔬 and a lawyer 🎓
-- I’m a financial market enthusiast
-- 🌎🌍🌏 I love travelling and trying new foods 🍕
+- 📚 Currently learning React and other JavaScript related things
+- 🎓 I’m also a biologist and a lawyer 
+- 📈 I’m a financial market enthusiast
+- 🌎 I love travelling and trying new foods 
 - 🍺 I brew my own beer 
-- 💛 And I really love coding! 
+- ❤️ And I really love coding! 
 
 <br />
 <hr>
 
-#### Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="Ruby on Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
