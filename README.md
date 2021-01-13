@@ -43,5 +43,7 @@
 <hr>
 
 [![Bia's github stats](https://github-readme-stats.vercel.app/api?username=biacaram&count_private=true&show_icons=true)](https://github.com/biacaram/github-readme-stats)
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biacaram&langs_count=6)](https://github.com/biacaram/github-readme-stats)
 
