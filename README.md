@@ -1,5 +1,17 @@
 ### Hi there, I'm Bia! 👋
 
+- 💻 I’m a fullstack developer
+- 📚 Currently learning React ❄️ and other JavaScript related things
+- I’m also a biologist 🔬 and a lawyer 🎓
+- 🌎🌍🌏 I love travelling and trying new foods
+- 🍺 I brew my own beer 
+- 💛 And I really love coding! 
+
+<br />
+<hr>
+
+
+
 <!--
 **biacaram/biacaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
