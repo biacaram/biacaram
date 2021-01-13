@@ -1,4 +1,4 @@
-### Hi there, I'm Bia! 👋
+### Hi there, I'm Bia! 👋😉
 
 <!--
 **biacaram/biacaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
