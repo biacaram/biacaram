@@ -33,6 +33,7 @@
 
 ### Find & follow me here 😉
 
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/44/44386.svg?token=exp=1610827043~hmac=ba1fbc145f44baebe413974b5b3cc1e9">](https://biacaram.github.io/portfolio/)
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/61/61109.svg?token=exp=1610559811~hmac=783743e1a5b857185899604ac3ae360c">](https://www.linkedin.com/in/biacaram/)
 [<img align="left" alt="Email" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/725/725643.svg?token=exp=1610559977~hmac=882d8fb33a682790c6cfc752c325c66a">](mailto:biacaram@hotmail.com)
 [<img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384031.svg?token=exp=1610560124~hmac=6320fb0ea5773e99ef6aa56b7e24526e">](https://www.instagram.com/biacaram/)
