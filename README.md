@@ -33,11 +33,11 @@
 
 ### Find & follow me here 😉
 
-[<img align="left" alt="Website" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/44/44386.svg?token=exp=1611615592~hmac=01d485c9c9ceb82f0ba59fb5cad2645e">](https://biacaram.github.io/portfolio/)
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/61/61109.svg?token=exp=1610559811~hmac=783743e1a5b857185899604ac3ae360c">](https://www.linkedin.com/in/biacaram/)
-[<img align="left" alt="Email" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/725/725643.svg?token=exp=1611615641~hmac=4deea15b2b567d2a8b1619f4b013cfda">](mailto:biacaram@hotmail.com)
-[<img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384031.svg?token=exp=1611615725~hmac=96468ae1f7994b047457bcd7bc3f361d">](https://www.instagram.com/biacaram/)
-[<img align="left" alt="Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733635.svg?token=exp=1611615695~hmac=b74539f1bda7b329eb636670bb88151b">](https://twitter.com/biacaram)
+[<img align="left" alt="Website" width="22px" src="images/earth.png">](https://biacaram.github.io/portfolio/)
+[<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.png">](https://www.linkedin.com/in/biacaram/)
+[<img align="left" alt="Email" width="22px" src="images/mail.png">](mailto:biacaram@hotmail.com)
+[<img align="left" alt="Instagram" width="22px" src="images/instagram.png">](https://www.instagram.com/biacaram/)
+[<img align="left" alt="Twitter" width="22px" src="images/twitter.png">](https://twitter.com/biacaram)
 
 <br />
 <br />
