@@ -1,7 +1,7 @@
 ## Hello, I'm Bia! 👋
 
 - 💻 I’m a fullstack developer
-- 📚 Currently learning React and other JavaScript related things
+- 📚 Currently learning C# and .NET
 - 🎓 I’m also a biologist and a lawyer 
 - 📈 I’m a financial market enthusiast
 - 🌎 I love travelling and trying new foods 
