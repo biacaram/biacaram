@@ -1,6 +1,6 @@
 ## Hello, I'm Bia! 👋
 
-- 💻 I’m a fullstack developer
+- 💻 I’m a fullstack developer, working mostly with C#/.NET, JS and SQL Server 
 - 📚 Currently learning Python and Data Science
 - 🎓 I’m also a biologist and a lawyer 
 - 📈 I’m a financial market enthusiast
