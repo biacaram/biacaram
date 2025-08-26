@@ -1,7 +1,7 @@
 ## Hello, I'm Bia! 👋
 
 - 💻 I’m a fullstack developer, working mostly with C#/.NET, JS and SQL Server 
-- 📚 Currently learning Dart and Flutter
+- 📚 Currently learning Data Science
 - 🎓 I’m also a biologist and a lawyer 
 - 📈 I’m a financial market enthusiast
 - 🌎 I love travelling and trying new foods 
